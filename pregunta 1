@@ -2,7 +2,7 @@
 #include <ctime>
 #include <stdlib.h>
 using namespace std;
-https://github.com/senior-gato/Computacion-Paralela-y-Distribuida/tree/master/Laboratorio1
+
 void example_1(){
 	int max = 100;
 	double A[max][max];
